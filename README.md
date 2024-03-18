@@ -7,3 +7,7 @@ utilização de fontes do google fonts na base do arquivo css.
 11/03/2024
 
 criação da tela de cadastro e do link para tela de cadastro a página principal(index).
+
+18/03/2024
+Utilização do gerador de icones e logotipos do favicon.
+Utilização de fontes com Google Fonts.
